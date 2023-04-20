@@ -69,7 +69,7 @@ This program emulates point to point networks that connect two hosts `h1` and
 `h2` via two routers `r1` and `r2`. 20 ping packets are sent from `h1` to
 `h2`, and the success/failure of these packets is reported. It is similar to
 `ah-point-to-point-3.py` in `examples/address-helpers`. This program shows
-how to add an loss probability according to  the  Gilbert-Elliot  loss  model
+how to add a loss probability according to  the  Gilbert-Elliot  loss  model
 or  its  special  cases (Gilbert,  Simple  Gilbert and  Bernoulli) to the
 packets outgoing from the chosen network interface.
 
@@ -93,7 +93,7 @@ This program emulates point to point networks that connect two hosts `h1` and
 `h2` via two routers `r1` and `r2`. 20 ping packets are sent from `h1` to
 `h2`, and the success/failure of these packets is reported. It is similar to
 `ah-point-to-point-3.py` in `examples/address-helpers`. This program shows
-how to add an loss probability using Markov model having four states to the
+how to add a loss probability using Markov model having four states to the
 packets outgoing from the chosen network interface.
 
 <!-- The below snippet will render example code in docs website -->
