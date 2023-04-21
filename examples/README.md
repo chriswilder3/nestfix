@@ -30,3 +30,4 @@ to quickly learn and use NeST APIs and its features.
 | tcp               | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :white_check_mark: | :white_check_mark: |
 | qdiscs               | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :white_check_mark: | :white_check_mark: |
 | routing           | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
+|coap               | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                |
